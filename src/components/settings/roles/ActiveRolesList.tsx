@@ -21,7 +21,7 @@ export default function ActiveRolesList() {
           <Label className="text-sm font-medium text-gray-700">
             Active Role
           </Label>
-          <p className="text-sm text-gray-500 mt-1">
+          <p className="text-sm text-gray-500 mt-1 mb-3">
             Select active role available to the user
           </p>
         </div>
