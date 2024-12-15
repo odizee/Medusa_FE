@@ -1,5 +1,5 @@
 import { LogOut } from "lucide-react";
-import avatar from "../../assets/Avatar.svg";
+import avatar from "../../assets/avatar.svg";
 import { Button } from "../ui/button";
 import { Avatar, AvatarFallback } from "../ui/avatar";
 
